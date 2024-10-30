@@ -1,0 +1,1 @@
+# techfriend_ai_challenge_msc_2024
