@@ -4,7 +4,6 @@
 [![Python 3.10](https://img.shields.io/badge/Python-3.10%2B-blue)](https://www.python.org/)
 [![Accuracy](https://img.shields.io/badge/Accuracy-82.1%25-brightgreen)](https://techfriendai.online/)
 
-<img src="https://techfriendai.online/static/logo.png" width="200" align="right">
 
 **Прогнозирование 16 типов личности** по системе MBTI с использованием мультимодальных данных. Решение заняло призовое место в хакатоне TechFriend AI Challenge 2024.
 
@@ -43,7 +42,6 @@ class HybridModel:
 | **F1-score (rare)** | 73.2%    | +31%                  |
 | **Время вывода**    | 1.2s     | -68%                  |
 
-![Confusion Matrix](https://example.com/cm.png)
 
 ### 📌 Интерпретация результатов
 
